@@ -5,3 +5,5 @@ clients that use it.
 
 
 https://www.youtube.com/watch?v=m0wKDZdb6AI&feature=youtu.be
+
+![Alt text](img_pattern/fPXch.png "Strategy Pattern Design")
