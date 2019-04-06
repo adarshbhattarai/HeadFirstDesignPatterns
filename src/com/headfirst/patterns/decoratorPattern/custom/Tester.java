@@ -1,4 +1,4 @@
-package com.adarsh.decorator;
+package com.headfirst.patterns.decoratorPattern.custom;
 
 import java.io.*;
 
@@ -16,7 +16,7 @@ public class Tester {
 
         try {
             int read;
-            InputStream is =new FileInputStream("src/resources/textreaderexample.txt");
+            InputStream is =new FileInputStream("./src/com/headfirst/patterns/decoratorPattern/Readme.md");
             is = new BufferedInputStream(is);
             is = new LowerCaseInputStream(is);
 
