@@ -1,4 +1,4 @@
-package com.adarsh.decorator;
+package com.headfirst.patterns.decoratorPattern.custom;
 
 /**
  * Created by adarshbhattarai on 4/6/19.

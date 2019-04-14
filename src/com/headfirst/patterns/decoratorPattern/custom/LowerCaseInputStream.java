@@ -1,9 +1,8 @@
-package com.adarsh.decorator;
+package com.headfirst.patterns.decoratorPattern.custom;
 
 import java.io.FilterInputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.Reader;
 
 /**
  * Created by adarshbhattarai on 4/6/19.
